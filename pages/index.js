@@ -16,16 +16,52 @@ export default function IndexPage() {
         Hi, I'm Ferdiansyah Rahman
       </h2>
 
-      <p className="-mt-5">Former IT Tech, I'm a born problem solver, writer, and gamer. This is my personal website where i will mostly write and build things. Currently learning javascript and typescript.
+      <p className="-mt-5">Former IT Support, I'm a born problem solver, writer, and gamer. This is my personal website where i will mostly write and build things. Currently learning javascript and typescript.
       </p>
 
       <h2 className="font-bold text-3xl -mt-10">
         Selected Project
       </h2>
+<<<<<<< HEAD
 
       
     </div>
 
+=======
+      
+
+    <section class="text-gray-700 body-font">
+            <div class="container px-8 mx-auto pt-36 lg:px-4">
+                <div class="flex flex-col w-full mb-12 text-left lg:text-center">
+                    <div
+                        class="inline-flex items-center justify-center flex-shrink-0 w-20 h-20 mx-auto mb-5 text-blue-800 bg-gray-200 rounded-full">
+                        <svg class="w-10 h-10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="34" height="24"
+                            fill="currentColor">
+                            <path fill="none" d="M0 0h24v24H0z" />
+                            <path
+                                d="M5.68 7.314l-1.82 5.914L12 19.442l8.14-6.214-1.82-5.914L16.643 11H7.356L5.681 7.314zM15.357 9l2.888-6.354a.4.4 0 0 1 .747.048l3.367 10.945a.5.5 0 0 1-.174.544L12 21.958 1.816 14.183a.5.5 0 0 1-.174-.544L5.009 2.694a.4.4 0 0 1 .747-.048L8.644 9h6.712z" />
+                        </svg>
+                    </div>
+                    <h1 class="mb-6 text-2xl font-semibold tracking-tighter text-blue-800 sm:text-6xl title-font">
+                        A Long headline
+                        <br class="">
+                        to convey your users.
+                    </h1>
+                    <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-1/2">Tailwind CSS
+                        templates
+                        with a wicked design.
+                        Professionally designed and 100% responsive static templates for startups and personal
+                        use.Whatever cardigan
+                        tote bag tumblr hexagon brooklyn
+                        asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of
+                        them man
+                        bun deep. </p>
+                </div>
+        </section>
+-->
+                                    
+    </div>
+>>>>>>> origin
     
   );
 }
