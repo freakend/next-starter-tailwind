@@ -16,7 +16,6 @@ export default function IndexPage() {
       </h2>
       
 
-                                        <!-------
     <section class="text-gray-700 body-font">
             <div class="container px-8 mx-auto pt-36 lg:px-4">
                 <div class="flex flex-col w-full mb-12 text-left lg:text-center">
