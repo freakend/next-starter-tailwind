@@ -18,7 +18,7 @@ export default function AboutPage() {
           My name is Ferdi. I'm a former IT technician who loves to code. I mostly used PHP and I'm currently learning Typescript, Javascript, and Nodejs.
           </p> <br />
           <p className="text-lg text-gray-800">
-          Previously, i worked on Multinational Retail Company as an Senior IT Technician / Support. Operated all the retail hardware; POS, Digital Scales, Servers and their Softwares; Mysql, Php, SAP.
+          Previously, i worked on Multinational Retail Company as a Senior IT Technician / Support. Operated all the retail hardware; POS, Digital Scales, Servers and their Softwares; SAP, Outlook, GMD.
           </p>
         </section>
 
@@ -30,8 +30,7 @@ export default function AboutPage() {
         <h4 className="mb-3 md:mb-1 text-m -my-4 font-italic">2019-2020</h4>
         <p className="text-lg text-gray-800">
           As I got promoted, I lead team of three managing and handling software
-          and hardware issue. We believe things get easier when you have a great
-          team.
+          and hardware issue. We believe great things in business are never done by one person.
         </p>
 
         <br />
