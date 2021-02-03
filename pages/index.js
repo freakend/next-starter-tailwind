@@ -1,9 +1,26 @@
 import Image from "next/image";
+import Head from "next/head";
 
 export default function IndexPage() {
   return (
+
+    
     <div className="flex flex-col items-left justify-center space-y-12">
-      
+
+      <Head>
+				<link rel="icon" href="/f.ico" />
+				<title>Ferdiansyah Rahman</title>
+				<meta
+					name="description"
+					content="Born problem solver, Coder, Gamer, Writer."
+				/>
+				<meta
+					name="viewport"
+					content="initial-scale=1.0, width=device-width"
+					key="viewport"
+				/>
+			</Head>
+
         <div className="md:flex md:justify-center md:pt-1 flex pt-20 justify-center">
             <Image
             alt="welcome"
@@ -21,7 +38,7 @@ export default function IndexPage() {
                         I'm Ferdiansyah Rahman
                     </h1>
                     <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-2/3">
-                    Former IT Support, I'm a born problem solver, writer, and gamer. This is my personal website where i will mostly write and build things.
+                    I'm a born problem solver, writer, and gamer. This is my personal website where i will mostly write and build things.
                     </p>
                 </div>
                 

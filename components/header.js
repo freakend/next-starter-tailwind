@@ -32,7 +32,7 @@ export default function Header() {
                 <nav className="flex flex-wrap items-center justify-center text-base md:ml-auto ">
                 <Link href="/"><a className="mr-5 text-sm font-semibold text-gray-600 hover:text-gray-800">Home</a></Link>
                 <Link href="/about"><a className="mr-5 text-sm font-semibold text-gray-600 hover:text-gray-800">About</a></Link>
-                <Link href="https://believeinramen.wordpress.com"><a target="_blank" className="text-sm font-semibold text-gray-600 hover:text-gray-800">Writings</a></Link>
+                <Link href="/portfo"><a className="text-sm font-semibold text-gray-600 hover:text-gray-800">Portfolio</a></Link>
                 </nav>
              </div>
           </header>

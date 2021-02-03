@@ -45,26 +45,6 @@ export default function AboutPage() {
         </p>
         </section>
       </div>
-      <div>
-      <section class="text-gray-800 body-font">
-      <h1 className="mb-3 text-3xl font-bold text-black">Selected Project</h1>
-        <hr />
-            <div class="container px-1 mx-auto py-1 lg:px-4">
-                <div class="flex flex-wrap text-left">
-                    <div class="px-2 py-6 lg:w-1/3 md:w-full">
-                        <img class="object-cover object-center w-full h-40 mb-6 rounded"
-                            src="/rumahtek.png" alt="content"></img>
-                        <div class="flex items-center justify-between ">
-                            <h2 class="mb-3 text-lg font-semibold text-gray-700 lg:text-2xl title-font"> Rumah Teknologi Air
-                            </h2>
-                            <span class="mb-1 text-xs font-medium tracking-widest text-blue-500 title-font">2017</span>
-                        </div>
-                        <p class="mb-4 text-base leading-relaxed">I lead team of three, our main idea was simple; creating a product where everyone, especially they who are in needs, can discuss about their problem with experts at Direktorat Jenderal Sumber Daya Air. </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-      </div>
       
     </div>
   );
