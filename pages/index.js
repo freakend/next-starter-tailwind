@@ -38,7 +38,7 @@ export default function IndexPage() {
                         I'm Ferdiansyah Rahman
                     </h1>
                     <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-2/3">
-                    I'm a born problem solver, writer, and gamer. This is my personal website where i will mostly write and build things.
+                    a born problem solver, writer, and gamer. This is my personal website where i will mostly write and build things.
                     </p>
                 </div>
                 
