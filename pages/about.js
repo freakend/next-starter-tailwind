@@ -45,10 +45,9 @@ export default function AboutPage() {
         </p>
         </section>
     
-        <h1 className="mb-3 text-3xl font-bold text-black">Selected Project</h1>
-        <hr />
+        <br />
         <section class="text-gray-800 body-font">
-      <h1 className="mb-3 text-3xl font-bold text-black">Web Developing Project</h1>
+      <h1 className="mb-3 text-3xl font-bold text-black">Selected Project</h1>
         <hr />
             <div class="container px-1 mx-auto py-1 lg:px-4">
                 <div class="flex flex-wrap text-left">
