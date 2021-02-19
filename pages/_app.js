@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
         <title>Ferdiansyah Rahman - IT Support</title>
         <meta
           name="Description"
-          content="A Next.js starter styled using Tailwind CSS."
+          content="My Personal Website and Portfolio. Built with Nextjs and Tailwind CSS."
         />
       </Head>
 
