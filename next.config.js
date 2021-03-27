@@ -11,6 +11,11 @@ module.exports = {
         destination: 'https://imbe.xyz',
         permanent: true,
       },
+      {
+        source: '/bikin-web',
+        destination: 'https://byferdi.com/bikinweb.png',
+        permanent: true,
+      },
     ]
   },
 }
